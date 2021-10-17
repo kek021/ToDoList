@@ -4,14 +4,14 @@
   <img width="150" height="150" src="https://github.com/kek021/ToDoList/blob/main/Misc/Assets.xcassets/AppIcon.appiconset/checkbox-1024.png" />
 </p>
 
-A simple pet-project app on Swift build with CoreData, Realm and CocoaPods
+A simple pet-project based on Swift using CoreData, Realm and CocoaPods
 
 ## Features
-- [x] Add new tasks
-- [x] Mark the task as completed
-- [x] Change position of the task in list
-- [x] Delete task from list
-- [x] All changes are saved automatically using realm or coreData
+- ➕ Add new tasks
+- ✅ Mark the task as completed
+- ↕️ Change position of the task in list
+- ❌ Delete task from list
+- 🔄 All changes are saved automatically using realm or coreData
 
 ## How to run
 
