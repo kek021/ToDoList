@@ -11,7 +11,7 @@ A simple pet-project based on Swift using CoreData, Realm and CocoaPods
 - ✅ Mark the task as completed
 - ↕️ Change position of the task in list
 - ❌ Delete task from list
-- 🔄 All changes are saved automatically using realm or coreData
+- 🔄 All changes are saved automatically using Realm or CoreData
 
 ## How to run
 
