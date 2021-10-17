@@ -17,8 +17,6 @@ A simple pet-project based on Swift using CoreData, Realm and CocoaPods
 
 Project works with CocoaPods, so you need from the command line, run ```pod install``` to fetch the dependencies.
 
+## License
 
-
-
-All icons used in RSToDoList are designed by Icons8.com and available [here](http://icons8.com).
 <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
