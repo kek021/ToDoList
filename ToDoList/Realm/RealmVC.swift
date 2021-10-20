@@ -102,19 +102,13 @@ extension RealmVC: UITableViewDelegate, UITableViewDataSource {
 
 extension RealmVC: UISearchBarDelegate {
     
-    
     func searchBar(_ searchBar: UISearchBar, textDidChange searchText: String) {
-        
-        
         if searchText == "" {
             realm.refreshData()
         } else {
             realm.data = realm.data?.filter("name CONTAINS[cd] %@", searchBar.text!)
         }
-        
         tableView.reloadData()
     }
-    
-
 }
 
